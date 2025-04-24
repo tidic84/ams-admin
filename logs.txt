@@ -1953,3 +1953,303 @@ Graphique CPU généré: cpu.png
 Graphique RAM généré: ram.png
 Graphique Disque généré: disk.png
 Génération des graphiques terminée.
+
+------------------------------------
+2025-04-24 06:59:02 - Début de l'archivage
+Alerte CERTFR-2025-ALE-004 mise à jour
+Archivage de l'alerte CERT terminé.
+disk.py stockée
+cpu.py stockée
+ram.py stockée
+users.sh stockée
+Archivage terminé.
+
+2025-04-24 06:59:02 - Début de la vérification de crise
+Enregistrements: 0
+Aucune crise détectée
+
+2025-04-24 06:59:02 - Début de la génération du graphique
+Graphique CPU généré: cpu.png
+Graphique RAM généré: ram.png
+Graphique Disque généré: disk.png
+Génération des graphiques terminée.
+
+------------------------------------
+2025-04-24 07:00:03 - Début de l'archivage
+Alerte CERTFR-2025-ALE-004 mise à jour
+Archivage de l'alerte CERT terminé.
+disk.py stockée
+cpu.py stockée
+ram.py stockée
+users.sh stockée
+Archivage terminé.
+
+2025-04-24 07:00:03 - Début de la vérification de crise
+Enregistrements: 0
+Aucune crise détectée
+
+2025-04-24 07:00:03 - Début de la génération du graphique
+Graphique CPU généré: cpu.png
+Graphique RAM généré: ram.png
+Graphique Disque généré: disk.png
+Génération des graphiques terminée.
+
+------------------------------------
+2025-04-24 07:01:02 - Début de l'archivage
+Alerte CERTFR-2025-ALE-004 mise à jour
+Archivage de l'alerte CERT terminé.
+disk.py stockée
+cpu.py stockée
+ram.py stockée
+users.sh stockée
+Archivage terminé.
+
+2025-04-24 07:01:02 - Début de la vérification de crise
+Enregistrements: 0
+Aucune crise détectée
+
+2025-04-24 07:01:02 - Début de la génération du graphique
+Graphique CPU généré: cpu.png
+Graphique RAM généré: ram.png
+Graphique Disque généré: disk.png
+Génération des graphiques terminée.
+
+------------------------------------
+2025-04-24 07:02:02 - Début de l'archivage
+Alerte CERTFR-2025-ALE-004 mise à jour
+Archivage de l'alerte CERT terminé.
+disk.py stockée
+cpu.py stockée
+ram.py stockée
+users.sh stockée
+Archivage terminé.
+
+2025-04-24 07:02:02 - Début de la vérification de crise
+Enregistrements: 0
+Aucune crise détectée
+
+2025-04-24 07:02:02 - Début de la génération du graphique
+Graphique CPU généré: cpu.png
+Graphique RAM généré: ram.png
+Graphique Disque généré: disk.png
+Génération des graphiques terminée.
+
+------------------------------------
+2025-04-24 07:03:02 - Début de l'archivage
+Alerte CERTFR-2025-ALE-004 mise à jour
+Archivage de l'alerte CERT terminé.
+disk.py stockée
+cpu.py stockée
+ram.py stockée
+users.sh stockée
+Archivage terminé.
+
+2025-04-24 07:03:02 - Début de la vérification de crise
+Enregistrements: 0
+Aucune crise détectée
+
+2025-04-24 07:03:02 - Début de la génération du graphique
+Graphique CPU généré: cpu.png
+Graphique RAM généré: ram.png
+Graphique Disque généré: disk.png
+Génération des graphiques terminée.
+
+------------------------------------
+2025-04-24 07:04:02 - Début de l'archivage
+Alerte CERTFR-2025-ALE-004 mise à jour
+Archivage de l'alerte CERT terminé.
+disk.py stockée
+cpu.py stockée
+ram.py stockée
+users.sh stockée
+Archivage terminé.
+
+2025-04-24 07:04:02 - Début de la vérification de crise
+Enregistrements: 0
+Aucune crise détectée
+
+2025-04-24 07:04:02 - Début de la génération du graphique
+Graphique CPU généré: cpu.png
+Graphique RAM généré: ram.png
+Graphique Disque généré: disk.png
+Génération des graphiques terminée.
+
+------------------------------------
+2025-04-24 07:05:02 - Début de l'archivage
+Alerte CERTFR-2025-ALE-004 mise à jour
+Archivage de l'alerte CERT terminé.
+disk.py stockée
+cpu.py stockée
+ram.py stockée
+users.sh stockée
+Archivage terminé.
+
+2025-04-24 07:05:02 - Début de la vérification de crise
+Enregistrements: 0
+Aucune crise détectée
+
+2025-04-24 07:05:02 - Début de la génération du graphique
+Graphique CPU généré: cpu.png
+Graphique RAM généré: ram.png
+Graphique Disque généré: disk.png
+Génération des graphiques terminée.
+
+------------------------------------
+2025-04-24 07:06:02 - Début de l'archivage
+Alerte CERTFR-2025-ALE-004 mise à jour
+Archivage de l'alerte CERT terminé.
+disk.py stockée
+cpu.py stockée
+ram.py stockée
+users.sh stockée
+Archivage terminé.
+
+2025-04-24 07:06:02 - Début de la vérification de crise
+Enregistrements: 0
+Aucune crise détectée
+
+2025-04-24 07:06:02 - Début de la génération du graphique
+Graphique CPU généré: cpu.png
+Graphique RAM généré: ram.png
+Graphique Disque généré: disk.png
+Génération des graphiques terminée.
+
+------------------------------------
+2025-04-24 07:07:02 - Début de l'archivage
+Alerte CERTFR-2025-ALE-004 mise à jour
+Archivage de l'alerte CERT terminé.
+disk.py stockée
+cpu.py stockée
+ram.py stockée
+users.sh stockée
+Archivage terminé.
+
+2025-04-24 07:07:02 - Début de la vérification de crise
+Enregistrements: 0
+Aucune crise détectée
+
+2025-04-24 07:07:02 - Début de la génération du graphique
+Graphique CPU généré: cpu.png
+Graphique RAM généré: ram.png
+Graphique Disque généré: disk.png
+Génération des graphiques terminée.
+
+------------------------------------
+2025-04-24 07:08:02 - Début de l'archivage
+Alerte CERTFR-2025-ALE-004 mise à jour
+Archivage de l'alerte CERT terminé.
+disk.py stockée
+cpu.py stockée
+ram.py stockée
+users.sh stockée
+Archivage terminé.
+
+2025-04-24 07:08:02 - Début de la vérification de crise
+Enregistrements: 0
+Aucune crise détectée
+
+2025-04-24 07:08:02 - Début de la génération du graphique
+Graphique CPU généré: cpu.png
+Graphique RAM généré: ram.png
+Graphique Disque généré: disk.png
+Génération des graphiques terminée.
+
+------------------------------------
+2025-04-24 07:09:02 - Début de l'archivage
+Alerte CERTFR-2025-ALE-004 mise à jour
+Archivage de l'alerte CERT terminé.
+disk.py stockée
+cpu.py stockée
+ram.py stockée
+users.sh stockée
+Archivage terminé.
+
+2025-04-24 07:09:02 - Début de la vérification de crise
+Enregistrements: 0
+Aucune crise détectée
+
+2025-04-24 07:09:02 - Début de la génération du graphique
+Graphique CPU généré: cpu.png
+Graphique RAM généré: ram.png
+Graphique Disque généré: disk.png
+Génération des graphiques terminée.
+
+------------------------------------
+2025-04-24 07:10:02 - Début de l'archivage
+Alerte CERTFR-2025-ALE-004 mise à jour
+Archivage de l'alerte CERT terminé.
+disk.py stockée
+cpu.py stockée
+ram.py stockée
+users.sh stockée
+Archivage terminé.
+
+2025-04-24 07:10:02 - Début de la vérification de crise
+Enregistrements: 0
+Aucune crise détectée
+
+2025-04-24 07:10:02 - Début de la génération du graphique
+Graphique CPU généré: cpu.png
+Graphique RAM généré: ram.png
+Graphique Disque généré: disk.png
+Génération des graphiques terminée.
+
+------------------------------------
+2025-04-24 07:11:02 - Début de l'archivage
+Alerte CERTFR-2025-ALE-004 mise à jour
+Archivage de l'alerte CERT terminé.
+disk.py stockée
+cpu.py stockée
+ram.py stockée
+users.sh stockée
+Archivage terminé.
+
+2025-04-24 07:11:02 - Début de la vérification de crise
+Enregistrements: 0
+Aucune crise détectée
+
+2025-04-24 07:11:02 - Début de la génération du graphique
+Graphique CPU généré: cpu.png
+Graphique RAM généré: ram.png
+Graphique Disque généré: disk.png
+Génération des graphiques terminée.
+
+------------------------------------
+2025-04-24 07:12:03 - Début de l'archivage
+Alerte CERTFR-2025-ALE-004 mise à jour
+Archivage de l'alerte CERT terminé.
+disk.py stockée
+cpu.py stockée
+ram.py stockée
+users.sh stockée
+Archivage terminé.
+
+2025-04-24 07:12:03 - Début de la vérification de crise
+Enregistrements: 0
+Aucune crise détectée
+
+2025-04-24 07:12:03 - Début de la génération du graphique
+Graphique CPU généré: cpu.png
+Graphique RAM généré: ram.png
+Graphique Disque généré: disk.png
+Génération des graphiques terminée.
+
+------------------------------------
+2025-04-24 07:13:02 - Début de l'archivage
+Alerte CERTFR-2025-ALE-004 mise à jour
+Archivage de l'alerte CERT terminé.
+disk.py stockée
+cpu.py stockée
+ram.py stockée
+users.sh stockée
+Archivage terminé.
+
+2025-04-24 07:13:02 - Début de la vérification de crise
+Enregistrements: 0
+Aucune crise détectée
+
+2025-04-24 07:13:02 - Début de la génération du graphique
+Graphique CPU généré: cpu.png
+Graphique RAM généré: ram.png
+Graphique Disque généré: disk.png
+Génération des graphiques terminée.
