@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Archive",
+            "database": "${workspaceFolder:admin}/archivage/archive/db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
